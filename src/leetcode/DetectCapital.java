@@ -31,7 +31,7 @@ public boolean detectCapitalUse(String word) {
 
 public static void main(String args[]) {
 	DetectCapital dc= new DetectCapital();
-	String word="usa";
+	String word="usa";//test
 	System.out.println(dc.detectCapitalUse(word));
 	
 }
